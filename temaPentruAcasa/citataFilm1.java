@@ -10,7 +10,6 @@ public class citataFilm1 {
                 "Da-n filmul vieţii lui văd \"clipul\",\n" +
                 "Când fu şi el... \"denominat\".");
 
-//***************************************************8
         System.out.println("***************************************************\n");
         System.out.println("Ex 2\n");
         System.out.println("365 дней\n" +
@@ -30,7 +29,6 @@ public class citataFilm1 {
                 "Год	2020");
 
         System.out.println("*************************************************\n");
-
         System.out.println("Ex 3\n");
         System.out.println("x                      x");
         System.out.println("x                      x");
@@ -38,11 +36,5 @@ public class citataFilm1 {
         System.out.println("xxxxx  x        x  xxxxx");
         System.out.println("x   x  x        x  x   x");
         System.out.println("x   x  x        x  x   x");
-
-
-
-
-
-
     }
 }
